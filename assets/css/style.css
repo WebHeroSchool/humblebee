@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Roboto:400,700&display=swap');
+
+* {
+	font-family: Roboto;
+}
+
+.header__title {
+	font-family: Open Sans Condensed;
+}
